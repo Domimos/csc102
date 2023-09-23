@@ -1,0 +1,52 @@
+body{
+	/*This affects the background and the box*/
+	background: rgb(64, 64, 129);
+	padding-left: 2%;
+	padding-right: 2%; 
+	border-radius: 10%;
+	/*background: black;
+	code test*/
+	/**/
+}
+
+h1{
+	/*this affects the Legal Information Institute*/
+	color: #890000;
+	text-shadow:0 0 25px rgb(0, 0, 0);
+	font-family: times new roman, arial;
+	text-align: center;
+	font-weight: bold;
+	font-size: 900%;
+}
+#box{
+	/*This makes the box happen*/
+	border-style: solid;
+	padding-left: 1%;
+}
+h2{
+	/*This is for the article*/
+	color: #ffbbbb;
+	font-family: times new roman, arial;
+	font-size: 300%;
+}
+
+h3{
+	/*All the sub titles after article*/
+	color: #ffbbbb;
+	text-shadow:0 0 2px blue;
+	font-family: times new roman, arial;
+	font-size: 250%;
+}
+
+p{
+	/*FOR ALL THE TEXT not affected by the last two*/
+	color: #000000;
+	text-shadow:0 0 2px rgb(25, 50, 37);
+	font-family: times new roman, arial;
+	font-size: 200%;
+}
+
+a:visited{
+	/*the link*/
+	color: aqua;
+}
